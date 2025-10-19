@@ -66,6 +66,7 @@ The comparison evaluates:
 ## Author
 **Roel Valenzuela**  
 Turning data into stories and curiosity into insight
+
 [GitHub Profile](https://github.com/roelvalenzuela)
 
 ---
