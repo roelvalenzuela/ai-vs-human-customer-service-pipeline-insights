@@ -1,4 +1,4 @@
-# 🤖 AI vs Human Service Pipeline & Insights
+# AI vs Human Service Pipeline & Insights
 
 **Data pipeline and analytics project** comparing AI chatbots and human agents in customer service.  
 Built with **Python, Apache Airflow, and Matplotlib**, this project automates data processing and visualization to uncover insights across metrics like **response time**, **satisfaction**, **resolution rate**, and **accuracy**.
